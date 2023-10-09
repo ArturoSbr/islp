@@ -1,5 +1,5 @@
 # An Introduction to Statistical Learning: Python Solutions
-This repo contains all the answers to both the _Conceptual_ and _Applied_ exercises of _An Introductions to Statistical Learning with Applications in Python_.
+This repo contains all the answers to both the _Conceptual_ and _Applied_ exercises of _An Introduction to Statistical Learning with Applications in Python_.
 
 ## Structure of this repo
 ```
